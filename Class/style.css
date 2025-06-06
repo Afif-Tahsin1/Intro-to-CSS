@@ -1,0 +1,19 @@
+/*Group selector*/
+div, h3{
+    text-align: center;
+}
+/*Child selector*/
+ul li{
+    font-size: 50px;
+    color:aquamarine;
+}
+h1{
+    color:bisque
+}
+body{
+    background-color: green;
+}
+#p1{
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+}

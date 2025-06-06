@@ -1,0 +1,48 @@
+.il1{
+    font-size: larger;
+    color:aqua;
+}
+body{
+    background-color: black;
+}
+p{
+    color: aqua;
+    text-align: center;
+}
+h1{
+    color:red;
+    text-align: center;
+}
+h3{
+    color:aquamarine;
+    text-align: center;
+}
+h2{
+    color:greenyellow;
+    text-align: center;
+}
+ol li{
+    color:green;
+}
+table th{
+    color:blue;
+}
+table td{
+    color:Green;
+}
+a:link{
+    color:brown;
+}
+a:hover{
+    color:azure
+}
+a:active{
+    color: blueviolet;
+}
+table{
+    background-color: white;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
