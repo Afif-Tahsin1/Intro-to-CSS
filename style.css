@@ -1,0 +1,9 @@
+/*Group selector*/
+div, h3{
+    text-align: center;
+}
+/*Child selector*/
+ul li{
+    font-size: 50px;
+    color:aquamarine;
+}
